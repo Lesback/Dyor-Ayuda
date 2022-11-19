@@ -1,4 +1,4 @@
-#Ayuda con Dyor
+# Dyor Ayuda
 
 Quiero pedirles la ayuda para seguir con el desarrollo de bot **Dyor**, quiero saber si hay alguien dispuesto a ser un desarrollador oficial del bot **Dyor**.
 
